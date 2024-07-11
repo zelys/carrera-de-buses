@@ -4,7 +4,7 @@ Divertido programa de consola que simula una carrera de buses. Este programa per
 
 # Clonar repositorio
 
-- En tu terminal local ejecuta git clone git remote add origin https://github.com/zelys/carrera-de-buses.git
+- En tu terminal local ejecuta `git clone http://github.com/zelys/carrera-de-buses.git`
 - Revisa que no existan errores de dependencias y ejecuta el programa
 
 ![screenshot 1](/img1.png)
